@@ -1,7 +1,4 @@
-// This is a comment in JavaScript
+// this is the first code in the repository
 
-// Declare a variable
 let message = "Hello, world!";
-
-// Print the message to the console
 console.log(message);
