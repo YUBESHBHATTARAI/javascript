@@ -1,4 +1,4 @@
 // this is the first code in the repository
 
-let message = "Hello, world!";
-console.log(message);
+let a = "Hello, world!";
+console.log(a);

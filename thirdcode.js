@@ -30,4 +30,4 @@ console.log(typeof(z+y))
  "name":true,
 //  console.log(object["name"])
  }
- console.log(object["name"])
+ console.log(object["name"]);
