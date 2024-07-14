@@ -17,3 +17,8 @@ console.log(god.replace("SHI", "BIS"));
 // //string concationation
 console.log(god.concat( " is the ruler of " , name));
 
+
+
+
+
+
