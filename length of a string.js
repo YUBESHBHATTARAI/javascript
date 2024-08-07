@@ -7,5 +7,8 @@
  console.log(myCode[1]); 
  console.log(myCode[2]); 
  console.log(myCode[3]); 
- console.log(myCode[4]); 
+ console.log(myCode[4]);
+
+ //way to find last letter in string
+ console.log(myCode.length-1);
  

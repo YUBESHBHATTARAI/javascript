@@ -2,17 +2,23 @@
 let num=[1,2,3,34,4]
 let b=num.toString()//b is now a string
 console.log(b)
+
 let c=num.join(" and ")
 console.log(c)
 console.log(typeof c)
+
 let r=num.pop()
 console.log(num,r)//pop returns the poped element
+
 let a=num.push(9)
 console.log(num,a)//push returns the new array length
+
 let y=num.shift()
 console.log(num,y)//removes an element from the start of an array
+
 let z=num.unshift(90)
 console.log(num,z)//returns new array length
+
 let lux=[1,2,3,34,4]
 delete lux[0]
 console.log(lux[0])//deletes the element at the given index
